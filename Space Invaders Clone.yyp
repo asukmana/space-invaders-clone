@@ -51,6 +51,7 @@
     {"id":{"name":"pt_enemy","path":"paths/pt_enemy/pt_enemy.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"so_enemy_laser","path":"sounds/so_enemy_laser/so_enemy_laser.yy",},},
+    {"id":{"name":"so_explosion","path":"sounds/so_explosion/so_explosion.yy",},},
     {"id":{"name":"so_player_laser","path":"sounds/so_player_laser/so_player_laser.yy",},},
     {"id":{"name":"sp_background","path":"sprites/sp_background/sp_background.yy",},},
     {"id":{"name":"sp_enemy_1","path":"sprites/sp_enemy_1/sp_enemy_1.yy",},},
