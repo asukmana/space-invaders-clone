@@ -35,11 +35,13 @@
   },
   "name":"Space Invaders Clone",
   "resources":[
+    {"id":{"name":"fn_game","path":"fonts/fn_game/fn_game.yy",},},
     {"id":{"name":"ob_enemy_1","path":"objects/ob_enemy_1/ob_enemy_1.yy",},},
     {"id":{"name":"ob_enemy_2","path":"objects/ob_enemy_2/ob_enemy_2.yy",},},
     {"id":{"name":"ob_enemy_3","path":"objects/ob_enemy_3/ob_enemy_3.yy",},},
     {"id":{"name":"ob_enemy_4","path":"objects/ob_enemy_4/ob_enemy_4.yy",},},
     {"id":{"name":"ob_enemy_5","path":"objects/ob_enemy_5/ob_enemy_5.yy",},},
+    {"id":{"name":"ob_play","path":"objects/ob_play/ob_play.yy",},},
     {"id":{"name":"ob_player_laser","path":"objects/ob_player_laser/ob_player_laser.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
