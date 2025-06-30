@@ -12,6 +12,7 @@ x = clamp(x, player_width / 2, room_width - player_width / 2);
 if keyboard_check_pressed(vk_space) // shoot laser
 {
 	instance_create_layer(x, y - 10, "Instances", ob_player_laser);
+	audio_play_sound(so_player_laser, 0, false);
 	//instance_create_layer(x - player_width / 2 + 2, y - 5, "Instances", ob_player_laser);
 	//instance_create_layer(x + player_width / 2 - 2, y - 5, "Instances", ob_player_laser);
 }
