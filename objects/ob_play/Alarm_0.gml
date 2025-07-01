@@ -1,3 +1,5 @@
+///@description Spawn enemies
+
 var _spawn_y = irandom(250);
 	
 for (var _j = 0; _j < 3; _j += 1)

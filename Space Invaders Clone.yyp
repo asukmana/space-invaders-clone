@@ -44,6 +44,7 @@
     {"id":{"name":"ob_enemy_5","path":"objects/ob_enemy_5/ob_enemy_5.yy",},},
     {"id":{"name":"ob_enemy_laser","path":"objects/ob_enemy_laser/ob_enemy_laser.yy",},},
     {"id":{"name":"ob_enemy","path":"objects/ob_enemy/ob_enemy.yy",},},
+    {"id":{"name":"ob_game_over","path":"objects/ob_game_over/ob_game_over.yy",},},
     {"id":{"name":"ob_play","path":"objects/ob_play/ob_play.yy",},},
     {"id":{"name":"ob_player_laser","path":"objects/ob_player_laser/ob_player_laser.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},

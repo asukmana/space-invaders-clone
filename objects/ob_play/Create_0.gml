@@ -2,20 +2,3 @@ global.player_score = 0;
 global.player_lives = 3;
 global.is_start = true;
 
-//spawn_timer = 3;
-
-//show_debug_message(string(instance_number(ob_enemy)));
-
-	//var _spawn_y = irandom(250);
-	
-    //for (var _j = 0; _j < 3; _j += 1)
-	//{
-	//	for (var _i = 0; _i < 5; _i += 1)
-	//	{
-	//		randomize();
-	//		var _choose_enemy = choose(ob_enemy_1, ob_enemy_2, ob_enemy_3, ob_enemy_4, ob_enemy_5);
-	//		instance_create_layer(60 + 60 * _i, 50 + _spawn_y + 60 * _j, "Instances", _choose_enemy);
-	//	}
-	//}
-	
-//instance_create_layer(60, 50, "Instances", ob_enemy_1);
